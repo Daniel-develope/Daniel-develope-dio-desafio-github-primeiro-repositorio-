@@ -45,3 +45,6 @@ $ git config --global user.mail "******"
 $ git config --global user.name
 
 $ git config --list
+
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
