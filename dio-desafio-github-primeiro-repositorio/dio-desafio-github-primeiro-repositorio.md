@@ -1,11 +1,11 @@
 # anotações sobre git/github :computer:
 
                                         windows               unix
-navega entre as pasta                  - cd                    - cd
-listar as  pasta                       - ir                   - ls
-criar pasta no dico local              - mkdir                - mkdir
-apagar pastas                          - del/rmdir            - rm -rf
-limpas lista                           - cls                  - clear ou [ ctrl+l ]
+navega entre as pasta        windows= cd, unix= cd
+listar as  pasta             windows= dir, unix= ls
+criar pasta no dico local    windows= mkdir, unix= mkdir
+apagar pastas                windows= del/rmdir, unix= rm -rf
+limpas lista                 windows= cls, unix= clear ou [ ctrl+l ]
 
 criar arquivo dentro da pasta -echo hello > hello.txt
 
